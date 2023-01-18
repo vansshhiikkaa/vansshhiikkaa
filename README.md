@@ -1,4 +1,4 @@
-### Hi there 👋
+I am currently a second year Bachelor of Science student in Statistics and Data Science department in Indian Institute Of Technology Kanpur.
 
 <!--
 **vansshhiikkaa/vansshhiikkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
